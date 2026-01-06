@@ -1,2 +1,1 @@
-
-export let greetings = console.log("Greetings tested");
+export const greetings = console.log("Greetings tested")

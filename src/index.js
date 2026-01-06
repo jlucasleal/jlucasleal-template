@@ -1,3 +1,5 @@
-import "./styles.css";
-import { greetings } from "./greeting.js";
+import "./styles.css"
+
 console.log("index.js Test")
+
+console.log("hello")
